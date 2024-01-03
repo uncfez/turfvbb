@@ -25,27 +25,25 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten).
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 'mailto:styrelsen@turfvasterbotten.se'
+    label: Maila föreningen
+  - icon: facebook
+    url: https://www.facebook.com/groups/242769782465508
   - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  # - icon: academicons/cv
+  #  url: uploads/resume.pdf
+  #  label: Download my resume
   - icon: rss
     url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    label: Prenumerera på inlägg via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,6 +52,8 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten).
+
+Föreningen ordnar bland annat de stående eventen Västerbotten Winter Classic och Västerbotten Midnight Classic, samt regelbundna turf-träffar.
+
+Turf Västerbotten grundades den 4 maj 2019.
