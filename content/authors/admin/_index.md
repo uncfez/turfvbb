@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten).
+bio: Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -53,7 +53,3 @@ website: ""
 ---
 
 Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten).
-
-Föreningen ordnar bland annat de stående eventen Västerbotten Winter Classic och Västerbotten Midnight Classic, samt regelbundna turf-träffar.
-
-Turf Västerbotten grundades den 4 maj 2019.
