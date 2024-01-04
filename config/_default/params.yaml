@@ -45,7 +45,7 @@ footer:
 
 # Localization
 locale:
-  date_format: '2 januari 2006'
+  date_format: '02 January 2006'
   time_format: '15:04'
   address_format: fi
 
