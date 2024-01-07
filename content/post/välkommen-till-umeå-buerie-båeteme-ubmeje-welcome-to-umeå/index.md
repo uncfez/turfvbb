@@ -1,6 +1,6 @@
 ---
 title: Välkommen till Umeå / Buerie båeteme Ubmeje / Welcome to Umeå
-date: 2024-01-07T16:43:35.127Z
+date: 2023-05-17T15:43:35.127Z
 draft: false
 featured: false
 image:
