@@ -26,23 +26,19 @@ Var: Umeå – Västerbotten
 **Eventområdet** består av områdena Väst på stan, Västerslätt, Rödäng samt Grisbacka/Grubbe.
 
 ## KLASSINDELNING
-
 Två klasser\
 a) Cykel-klass\
 b) Fot-klass. Här går även rullstol utan motor och liknande fortskaffningsmedel in.\
 Klargörande; Kickbike, rollerblades, rullskidor samt eldriven rullstol räknas in i klass a) Cykel
 
 ## ÅLDER
-
 Det finns ingen åldersindelning på detta event. Detta då det är ett nattevent. Om deltagaren är under 18 år rekommenderas att målsman godkänner deltagande.
 
 ## PRISER ATT VINNA
-
 Respektive klass har 1: a -3:e plats ett pris i form av riktiga medaljer.\
 Alla som tagit en zon får en Event-medalj i appen.
 
 ## ANMÄLAN
-
 För att kunna uppskatta och planera zoner vill vi att ni anmäler er via denna länk: https://forms.gle/DfaZA49zrLZ9AeEp9
 
 Anmälan är inte obligatorisk (då detta är ett öppet event) men det uppskattas för att kunna lägga ut rätt antal zoner.\
@@ -51,11 +47,9 @@ Ange även vilken klass du tänkt delta i (denna går sedan att ändra sig på, 
 Skicka in (svara på formuläret) anmälan senast 15/6 klockan 23:59. MEN gör det så fort som möjligt, så vi kan ha framförhållning och mäta av intresset. Du får en bekräftelse på din anmälan på via mejl.
 
 ## RAPPORTERING
-
 Det går att följa eventet på http://www.turfgame.com Välj där fliken Event.
 
 ## SÄKERHET
-
 * Vi rekommenderar starkt användning av hjälm i cykelklass.
 * Belysning på cykel vid behov ska också med.
 * Givetvis följer vi trafikregler och visar hänsyn till andra.
@@ -63,10 +57,7 @@ Det går att följa eventet på http://www.turfgame.com Välj där fliken Event.
 
 Eventet arrangeras av Föreningen Turf Västerbotten, vilket innebär att idrottsrörelsens verksamhetsidé, vision och värdegrund gäller under själva tävlingen.
 
-
-
 ## OM EVENT
-
 Event är en kort tävling där det finns många special-utlagda zoner med korta avstånd inom ett speciellt område. Alla har samma förutsättningar avseende tagningstid (30 sek) och blockeringstid (3 min). Detta är lämpligt för såväl nya som rutinerade turfare.
 
 Gå, spring eller cykla – gör vilket du tycker passar dig för tillfället.\
