@@ -71,13 +71,7 @@ Eventområdet öppnar kl 9:00 och ligger vid Nydalabadet på norra sidan av Nyda
 
 *\*Medaljerna Bonanza Guld, Silver och Brons samt Bonanzamedalj kommer att delas ut i appen efter respektive heat. Vinnarna av respektive heat vinner också priser. Det kommer även att finnas en ungdomsklass, upp till 18 år med särskilda priser.*
 
-
-
 ![](cm.webp "Vår sponsor CM Cykel & Fritid med en av priserna. Foto: Pike.")
-
-Vår sponsor CM Cykel & Fritid med en av priserna. Foto: Pike.
-
-
 
 Faciliteter på eventområdet
 
