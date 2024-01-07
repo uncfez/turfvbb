@@ -125,8 +125,12 @@ Det går nämligen att bada – både på Nydalabadet och på Navet. Så packa g
 
 ## Karta: Hitta till eventområdet (inkl. kostnadsfri parkering)
 
-{{< figure src="cm.webp" caption="1. Eventområde <p> 2. Kostnadsfri parkering <p> 3. First Camp Umeå*.*" >}}
+{{< figure src="bonanza-map.webp" caption="1. Eventområde 2. Kostnadsfri parkering 3. First Camp Umeå*.*" >}}
 
-Karta: Tävlingsområde Foot
+## Karta: Tävlingsområde Foot
 
-Karta: Tävlingsområde Bike
+{{< figure src="bonanza-foot.webp" caption="Bonanza Foot" >}}
+
+## Karta: Tävlingsområde Bike
+
+{{< figure src="bonanza-bike.webp" caption="Bonanza Bike" >}}
