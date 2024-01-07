@@ -18,7 +18,7 @@ Det är inte obligatoriskt att anmäla sig för att delta men vill du ha namnlap
 
 It is not mandatory to register to participate, but if you want a name tag and a chance to win in raffles, you can still sign up to participate in the Bonanza!
 
-Anmälda hittills / Registered so far
+## Anmälda hittills / Registered so far
 
 [Klicka här för att se deltagarlistan / List of participants can be found here](https://docs.google.com/spreadsheets/d/1VIhZgbedoMJbFI9ZsoL57SHwHEBEObUaBkBBl_ETwOk/edit?usp=sharing)
 
