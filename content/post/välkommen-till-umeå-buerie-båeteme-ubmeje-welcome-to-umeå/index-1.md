@@ -8,129 +8,135 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Det är knappt en vecka kvar och vi längtar att få välkomna er alla till den nordligaste Bonanza någonsin (hittills)! I detta informationsbrev hittar du den viktigaste informationen du behöver innan du ger dig av till Umeå. 
+It’s barely a week left and we cannot wait to welcome you all to the northernmost Bonanza ever (so far)! In this information letter you will find the essential information you need before setting off to Umeå. 
 
-Generell information om Bonanzan hittar du på vår hemsida:
+General information about the Bonanza can be found on our webpage:
 
-https://www.turfvasterbotten.se/ och på Turf-wiki: https://wiki.turfgame.com/sv/wiki/Bonanza 
+https://www.turfvasterbotten.se/ and on the Turf-wiki page: https://wiki.turfgame.com/en/wiki/Bonanza 
 
-## Tjuvstart med turf-träff på Eljest på fredag 19 maj
+## Warm-up at Eljest on Friday evening, 19 May
 
-En av våra sponsorer, [Eljest](https://www.eljestshop.se/), har ett mysigt café/pub som håller öppet för oss på fredag kväll mellan ungefär 18-20 och då erbjuder följande meny:
+One of our sponsors, Eljest, has a cosy café/pub which will stay open specially for turfers on Friday evening approx. between 18-20. They offer the following menu this night:
 
-* Vår rökiga macka, 145 kr (Rågbröd, nykokt potatis, vindelrökt skinka, pepparrot, saltrostade mandlar, serveras med picklad rödkål och salta chips)
-* Kantarellmacka (vegansk) 145 kr (Rågbröd, ärtguacamole, stekta kantareller, slätrostade mandlar, persilja, serveras med picklad rödkål och salta chips)
-* Kantarellsoppa med grilled cheese 165 kr
+* Our smokey sandwich, 145 SEK (rye bread, freshly cooked potatoes, Vindel smoked ham, horseradish, salted roasted almonds, served with pickled red cabbage and salty crisps)
+* Chanterelle sandwich (vegan) (vegansk) 145 SEK (rye bread, guacamole on peas, fried chantarelles, roasted almonds, parsley, served with pickled red cabbage and salty crisps)
+* Chantarelle soup with grilled cheese 165 SEK 
 
-**Adress**: Nabbvägen 9 (på ön Ön), närmaste zon är [NabbZone](https://turfgame.com/map/NabbZone).
+**Address**: Nabbvägen 9 (on the island Ön), the closest zone is [NabbZone](https://turfgame.com/map/NabbZone).
 
-## Hitta till eventområdet
+## Find the event area
 
-Eventområdet öppnar kl 9:00 och ligger vid Nydalabadet på norra sidan av Nydalasjön, nära E4:an och First Camp Umeå.
+The event area opens at 9 AM and is located by Nydalabaded, on the north side of the Nydala lake. It is close to the E4 and First Camp Umeå.
 
-**Hitta hit med:**
+**Get here by:**
 
-* … buss: Ta buss 1 eller 2 mot Ö Ersboda/Ersboda handelsområde och hoppa av på hållplatsen Nydala. Följ cykelvägen under motorvägen, ned mot sjön. För busstidtabeller se[ tabussen.nu](https://www.tabussen.nu/)
-* … bil: GPS-koordinatorer 63.837202, 20.339428. Se separat karta för kostnadsfri parkering.
-* … turf-kartan: zonerna [TrioVidFyran](https://turfgame.com/map/TrioVidFyran) och [UmeBeach](https://turfgame.com/map/UmeBeach) ligger närmast eventområdet. När du väl hittat hit, lär du även se ett helt gäng andra turfare.  
+* … bus: Take bus 1 or 2 towards Ö Ersboda/Ersboda handelsområde and get off at the stop Nydala. Follow the bike lane under the motorway, towards the lake. For timetables see [tabussen.nu](https://www.tabussen.nu/)
+* … car: GPS-coordinates 63.837202, 20.339428. See also attached map for parking.
+* … the turf map: the zones [TrioVidFyran](https://turfgame.com/map/TrioVidFyran) and [UmeBeach](https://turfgame.com/map/UmeBeach) are the closest ones. When you've reached these, you are highly likely to see plenty of other turfers. 😉 
 
 ## Bonanza-tider
 
 * **9:00**\
-  Event-området öppnar. Bonanza crew finns på plats och kommer att vara synliga med gula ordensband. Hämta ut din t-shirt (förbeställda) och goodiebag (de 100 första anmälda), byt om, serva din cykel, mingla med Turf Crew och turfare från när och fjärran.
+  The event area opens. The Bonanza crew will be present and identifiable through their yellow sashes. Get your pre-ordered t-shirt and goodiebag (the first 100 turfers who signed up for the event). Get your bike checked, switch clothes and mingle with Turf Crew and turfers from near and afar.
 * **9.30**\
-  Genomgång inför foot heat
+  Briefing before the foot heat
 * **10:00-12:00**\
   Heat 1 Bonanza foot
 * **Ca 12:20**\
-  Crowdy-rekordförsök nr 1
+  Crowdy record attempt no 1
 * **Ca 12:30** \
-  Prisutdelning för heat 1.*
+  Prize ceremony for heat 1.*
 * **12.40** \
-  Genomgång inför bike heat
+  Briefing before the bike heat
 * **13:00- 15:00** \
   Heat 2  Bonanza Bike
 * **Ca 15:20** \
-  Crowdy-rekordförsök nr 2
+  Crowdy record attempt no 2
 * **Ca 15:30** \
-  Prisutdelning för heat 2.*
+  Prize ceremony for heat 2.*
 * **Ca 16:00** \
-  Eventområdet stänger.
+  The event area will be closed.
 * **18:00** \
-  Fördrinks-crowdy (se nedan)
+  Warm-up drink and crowdy (see below)
 * **18:30** \
-  Bonanza-banketten börjar på Cinco (se nedan)
+  The bonanza banquet begins at restaurant Cinco (see below)
 * **21:00** \
-  Möjlighet för de som inte anmält sig till banketten att göra oss sällskap på Cinco.
+  For those who did not sign up for the banquet, you’re welcome to join us at Cinco from 21:00.
 
-*\*Medaljerna Bonanza Guld, Silver och Brons samt Bonanzamedalj kommer att delas ut i appen efter respektive heat. Vinnarna av respektive heat vinner också priser. Det kommer även att finnas en ungdomsklass, upp till 18 år med särskilda priser.*
+*\*The medals Bonanza Gold, Silver och Bronze and Bonanza Participator will be assigned automatically in the app directly after each heat. Winners of each heat will also receive physical prizes. There will also be special prizes for participants of the junior class (up to 18).*
 
-{{< figure src="cm.webp" caption="Vår sponsor CM Cykel & Fritid med en av priserna. *Foto: Pike.*" >}}
+{{< figure src="cm.webp" caption="Our sponsor CM Cykel & Fritid with one of the prizes. *Photo: Pike.*" >}}
 
-## Faciliteter på eventområdet
+## Facilities at the event area
 
-På eventområdet kommer det att finnas en kiosk med dryck och mat till lagom priser. Stötta gärna föreningen Turf Västerbotten genom att köpa kaffe, dryck, korv, hamburgare (vegetariskt alternativ finns), och annat gott här. Du kan betala med kort eller Swish.
+At the event area we have a kiosk where you can purchase food and beverages for reasonable prices. Please support the association Turf Västerbotten by purchasing coffee, sodas, sausages, burgers (vegetarian option available) and other tasty items here. You can pay with card or Swish.
 
-Vi är mycket glada att vår sponsor CM Cykel och Fritid kommer att finnas på plats på eventområdet och reparera/serva cyklar mot en billig penning samt sälja hjälmar och andra cykeltillbehör.
+We are very happy that our sponsor CM Cykel och Fritid will be present at the event area and serve bikes for an affordable fee an sell bike helmets and other cycle accessories.
 
-På eventområdet kommer det även finnas tillgång till toaletter, omklädningsrum och förvaring.
+At the event area you will find toilets, changing rooms and storage.
 
-## Crowdy-rekord på samlingsplatsen
+## Crowdy record attempts
 
-Vad vore en Bonanza utan försök att ta Crowdy-rekord? Dvs att flera turfare tar assist på en zontagning samtidigt. Nuvarande rekord är 194 personer vilket togs på Bonanzan i Västervik 2022. När detta skrivs är 223 turfare anmälda vilket ger goda chanser på både få medaljen crowdy-144 och slå rekordet, men detta kräver lite koordination. Vi har planerat in två försök klockan 12:20 och 15:20 i samband med prisutdelning av de två heaten. Vi uppmuntrar er därför att inte ta zonen mellan 12:01-12:20 samt mellan 15:01-15:20.
+What is a Bonanza without attempting to break the Crowdy record? A crowdy is when several turfers takes assist on a zone simultaneously. Current record is 194 turfers, which was taken at the Bonanza in Västervik. We currently have 223 turfers signed up for the Bonanza so the prospects looks good for both the medal crowdy-144 and to break the record. However, this requires some coordination. We have planned for two attempts, at 12:20 and 15:20, in connection to the prize ceremonies after the two heats. We ask you kindly not to take the zone between 12:01-12:20 and 15:01-15:20.
 
-## Säkerhet
+## Your safety
 
-Som vid varje turf-event ber vi er att vara uppmärksamma ute i trafiken. Följ trafikreglerna och visa hänsyn till medtrafikanter och gående. Du deltar på eget ansvar. Använd gärna lysande färger (t.ex. gult) på dina kläder. I cykel-heatet är cykelhjälm en stark rekommendation.
+Like any other Turf event, we ask you to be cautious in the traffic. Follow Swedish traffic rules and be respectful to other people. Please note that you participate at your own risk. We recommend using bright coloued clothes (e.g. yellow). We also strongly recommend wearing a helmet in the cycle heat.
 
-På eventområdet finns hjärtstartare, första hjälpen-kit och plåster. Du kan alltid nå Bonanza Crew på 010-475 33 66 (linkaz) 070-605 6605 (inda7) ifall något händer under ditt heat. Behöver du akut hjälp – ring först 112.
+See also: https://www.thenewbieguide.se/cycling-rules-in-sweden/
 
-## Bra att veta
+At the event area you can find defibrillator, first aid kit and bandaid. You can always contact Bonanza Crew if something happens during your heat. +46 (0) 10-475 33 66 (linkaz) or +46 (0)70-605 6605 (inda7). If you need emergency help always first call 112 (for ambulance, police and/or emergency services)..
 
-Det råder cykelförbud i Stadsliden (det gröna området norr om universitetet).
+## Good to know
 
-Umeå är björkarnas stad och snart kommer staden explodera i björkpollen. Är du känslig kan det vara en god idé att ta med medicin.
+In the area called Stadsliden (the green forest area north of the university) cycling is prohibited.
 
-## 18:00 – fördrink med crowdy inför banketten
+Umeå is the city of birch trees, very soon all birches will explode in a pollen bonanza. If you are allergic, we recommend bringing medicine.
+
+Thursday (18 May) is a public holiday, which means that stores and public transport may run at a different schedule than usual.
+
+## 18:00 – – warm-up drink with crowdy
 
 Klockan 18:00 bjuder vi på fördrink och crowdy inför banketten. Vi ses utanför badhuset Navet, nära Elite hotell, närmst zonen NavetZone och går sedan i gemensam trupp till banketten.
 
-## 18:30 – bankett på restaurang Cinco
+## 18:30 – banquet at restaurant Cinco
 
-Kl 18:30 öppnas dörrarna till banketten på [restaurang Cinco](https://cincoumea.se/) på Renmarkstorget (närmsta zon: [RenastLuft](https://turfgame.com/map/RenastLuft)). Observera att deltagande på banketten kräver föranmälan och att anmälningen nu har stängt. Kontakta Bonanza Crew på eventområdet om du vill skriva upp dig på reservlista (obs! Då gäller ordinarie meny och ej specialkost, priset är 400 kr). ***Du som inte anmält dig är välkommen att göra oss sällskap på Cinco efter 21:00.***
+At 18:30 the doors will open to the banquet at restaurant Cinco at Renmarkstorget (closest zone: RenastLuft). Please note that participation at the banquet requires pre-registration which has now closed. If you wish to be on the standby list, please contact Bonanza Crew at the event area (please note that we in such case cannot accommodate allergies or special requirements, the price is 400 SEK). ***If you have not signed up for the banquet, you are welcome to join us at Cinco after 21:00.***
 
-I middagen ingår huvudrätt och efterrätt på Västerbottniskt tema. Dryck bekostas på egen hand. Under kvällen blir det utdelning av Turf Awards, upptåg, Regionskampen (se nedan), tillkännagivande av Bonanza-ort 2024 och mycket mer. Hela lokalen är reserverad för Bonanza-festligheterna fram till 21.30.
+The dinner includes a main course and dessert on a Västerbotnian theme. Beverages are at your own expense. Some of the happenings during the evening includes: Turf Awards, the Ultimate Region Fight “Bonanza Banquet Edition” (see below), announcement of Bonanza 2024, and other fun activities. The whole restaurant is reserved for the festivities until 21:30.
 
-Ca kl 21:30 kommer den formella delen av banketten att rundas av och vi kommer att flytta in i en mindre avdelning i bakre delen av Cinco. Kl 22:00 slår nattklubben på Cinco upp dörrarna och några av er vill kanske passa på att svänga de lurviga. Åldersgräns för nattklubben är 22 år, då gäller entrépris.
+The formal part of the banquet ends around 21:30. We will then move into a smaller section of the restaurant. At 22:00 Cinco’s night club will open. Some of you may wish to dance through the night. You must be 22 years old to enter the nightclub, entrance fee applies.
 
-## Regionskampen – Bonanza edition
+## The Ultimate Region Fight – Bonanza Banquet Edition
 
-Utmana Stockholm i vem som är bästa Turf-regionen i Regionskampen Bonanza edition. Vi håller öppet för anmälan tills tidsschemat är fullt, men som allra senast kl 16:00 när eventområdet stänger. 
+Who will challenge Stockholm as the number 1 Turf region in our Bonanza version of the Ultimate Region Fight? It is still possible to sign up. We’ll draw the line when the banquet’s time schedule is full, but at the latest 16:00 when the event area closes.
 
-Maila din anmälan till bonanza@turfvasterbotten.se alternativt ta kontakt med WombaWomba eller UncleFester på eventområdet.
+Read more: https://www.turfvasterbotten.se/post/ultimate-region-fight-bonanza-edition/ 
 
-## Frågor och kontakt?
+Email your region’s delegation to bonanza@turfvasterbotten.se, or get in touch with WombaWomba or UncleFester at the event area.
 
-Har du ytterligare frågor och funderingar, tveka inte att höra av dig till bonanza@turfvasterbotten.se eller skicka oss ett meddelande i chatten (Västerbotten/Sverige/World).
+## Questions and contact?
 
-Under tävlingsdagen kan ni nå Bonanza Crew med akuta frågor. Ring 010-475 33 66 (linkaz) eller 070-605 6605 (inda7).
+Still have questions? Please do not hesitate to contact us at bonanza@turfvasterbotten.se or send us a chat message in the Turf app (Västerbotten/Sverige/World).
 
-## Kom ihåg att packa badkläder!
+If you have urgent questions or issues on the event day you can get in touch with the Bonanza Crew. Call +46 (0)10-475 33 66 (linkaz) or +46(0) 70-605 6605 (inda7).
 
-Det går nämligen att bada – både på Nydalabadet och på Navet. Så packa gärna badkläder!
+## Remember to pack your swimwear!
 
-## Tack till våra samarbetspartners och sponsorer 
+It is possible to take a swim – both at Nydalabadet and at the swimming centre Navet. So bring your swimming suits!
+
+## Thank you to our partners and sponsors
 
 [CM Cykel och Fritid](https://www.cmcykel.se/), [Visit Umeå](https://visitumea.se/sv), [Föreningsbyrån](https://www.umea.se/upplevaochgora/foreningarforeningsliv/foreningsbyranstodtillforeningar.4.250f9659174ae4b9794529.html), [First Camp Umeå](https://firstcamp.se/destinationer/nydala-umea), [Hotell Gamla Fängelset](https://www.hotellgf.se/), [Eljest](https://www.eljestshop.se/), [Cinco](https://cincoumea.se/), [NRA Repro AB](https://nra.se/), [Tiljan](https://www.tiljan.se/) och [Innovationssluss Västerbotten](https://www.regionvasterbotten.se/innovation-och-partnerskap/innovationssluss-vasterbotten).
 
-## Karta: Hitta till eventområdet (inkl. kostnadsfri parkering)
+## Map: Find the event area (and free parking)
 
-{{< figure src="bonanza-map.webp" caption="1. Eventområde 2. Kostnadsfri parkering 3. First Camp Umeå*.*" >}}
+{{< figure src="bonanza-map.webp" caption="1. Event area 2. Free parking 3. First Camp Umeå*.*" >}}
 
-## Karta: Tävlingsområde Foot
+## Map: Competition Area Foot
 
 {{< figure src="bonanza-foot.webp" caption="Bonanza Foot" >}}
 
-## Karta: Tävlingsområde Bike
+## Map: Competition Area Bike
 
 {{< figure src="bonanza-bike.webp" caption="Bonanza Bike" >}}
