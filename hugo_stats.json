@@ -388,6 +388,7 @@
     ],
     "ids": [
       "-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor",
+      "anmälan",
       "anmälan-till-västerbotten-winter-classic-2020",
       "att-planera-för-det-oförutsedda",
       "callouts",
@@ -421,16 +422,20 @@
       "ideation",
       "inline-images",
       "inspiration",
+      "klassindelning",
       "license",
       "math",
       "mindmaps",
       "moon",
       "nav-menu",
       "nav-toggle",
+      "om-event",
       "overview",
       "page-bg",
       "podcast",
+      "priser-att-vinna",
       "profile",
+      "rapportering",
       "search",
       "search_toggle",
       "section-collection",
@@ -445,6 +450,7 @@
       "snön-och-psyket",
       "spoiler-3",
       "sun",
+      "säkerhet",
       "test-students",
       "themes",
       "todo-lists",
@@ -452,7 +458,8 @@
       "turfträff-i-skellefteå-31-augusti-2019",
       "upptakten",
       "video",
-      "välkommen-till-årsmötet-för-föreningen-turf-västerbotten"
+      "välkommen-till-årsmötet-för-föreningen-turf-västerbotten",
+      "ålder"
     ]
   }
 }

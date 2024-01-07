@@ -14,11 +14,11 @@ NU är det dags igen för en klassiker – Midnight Classic – för 9:e gången
 Arrangören Föreningen Turf Västerbotten hälsar alla intresserade välkomna till detta event.\
 Eventet är öppet, vilket ger dig eventmedaljen i appen.
 
-När: Lördag 17 juni 2023\
-Start av event: Lördag 17 juni, 23:00\
-Varaktighet: 2 timmar\
-Slut av event: Söndag 18 juni, kl 01:00\
-Prisutdelning: Sker vi samlingsplatsen som är intill Signalzone (Hedlundadungen)\
+**När:** Lördag 17 juni 2023\
+**Start** av event: Lördag 17 juni, 23:00\
+**Varaktighet:** 2 timmar\
+**Slut av event:** Söndag 18 juni, kl 01:00\
+**Prisutdelning:** Sker vi samlingsplatsen som är intill Signalzone (Hedlundadungen)\
 Här kommer det även finnas möjlighet att grilla korv som ni tar med själv.
 
 Var: Umeå – Västerbotten
