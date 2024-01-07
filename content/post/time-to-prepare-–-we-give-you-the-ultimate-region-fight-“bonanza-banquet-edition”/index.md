@@ -1,7 +1,7 @@
 ---
 title: Time to prepare – We give you the Ultimate Region Fight “Bonanza Banquet
   Edition”!
-date: 2024-01-07T16:31:52.791Z
+date: 2023-04-27T15:31:52.791Z
 summary: >-
   Read all about it!
 
