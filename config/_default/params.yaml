@@ -56,6 +56,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: ''
     content_dir: starters/blog/content
     branch: main
