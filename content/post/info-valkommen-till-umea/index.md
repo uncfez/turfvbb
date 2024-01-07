@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+[In English, please! 🙂]({{< relref "/post/info-welcome-to-umea" >}})
+
 Det är knappt en vecka kvar och vi längtar att få välkomna er alla till den nordligaste Bonanza någonsin (hittills)! I detta informationsbrev hittar du den viktigaste informationen du behöver innan du ger dig av till Umeå. 
 
 Generell information om Bonanzan hittar du på vår hemsida:

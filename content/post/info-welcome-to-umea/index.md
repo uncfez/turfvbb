@@ -3,6 +3,9 @@ title: Välkommen till Umeå / Buerie båeteme Ubmeje / Welcome to Umeå
 date: 2023-05-14T17:05:06.647Z
 draft: false
 featured: false
+_build:
+  render: always
+  list: never
 image:
   filename: featured
   focal_point: Smart
