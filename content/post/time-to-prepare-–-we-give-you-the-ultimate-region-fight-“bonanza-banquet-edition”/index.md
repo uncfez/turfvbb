@@ -3,8 +3,7 @@ title: Time to prepare – We give you the Ultimate Region Fight “Bonanza Banq
   Edition”!
 date: 2024-01-07T16:31:52.791Z
 summary: >-
-  Time to prepare – We give you the Ultimate Region Fight “Bonanza Banquet
-  Edition”! Read all about it!
+  Read all about it!
 
 
   På årets Bonanza-bankett kommer ***årets turf-region*** att koras! Vem som vinner beror på ***hur*** ni väljer att presentera er region.
