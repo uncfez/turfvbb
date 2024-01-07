@@ -3,6 +3,8 @@ title: God jul och information från styrelsen
 date: 2023-12-22T13:12:10.771Z
 draft: false
 featured: false
+authors:
+  - UncleFester
 image:
   filename: featured.webp
   focal_point: Smart
