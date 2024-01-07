@@ -6,9 +6,10 @@ featured: false
 authors:
   - unclefester
 image:
-  filename:
-  focal_point:
+  filename: null
+  focal_point: null
   preview_only: false
+  caption: "Foto: Pike"
 ---
 Vi här i Västerbotten vill bara informera om att förberedelserna är i full gång i Umeå! Idag såg event-/samlingsplatsen ut så här – vi kan inte lova att all snö är kvar den 20 maj!
 
