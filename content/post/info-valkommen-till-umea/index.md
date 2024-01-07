@@ -7,6 +7,9 @@ summary: >-
   den viktigaste informationen du behöver innan du ger dig av till Umeå.
 
 
+  \*\**
+
+
   It’s barely a week left and we cannot wait to welcome you all to the northernmost Bonanza ever (so far)! In this information letter you will find the essential information you need before setting off to Umeå.
 draft: false
 featured: false
