@@ -6,7 +6,8 @@ featured: false
 authors:
   - linkaz
 image:
-  filename: null
+  filename: 
+  caption: 'Foto: ZoneBanger'
   focal_point: null
   preview_only: false
 ---

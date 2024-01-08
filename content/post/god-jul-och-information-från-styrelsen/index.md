@@ -6,8 +6,8 @@ featured: false
 authors:
   - linkaz
 image:
-  filename: featured.webp
-  focal_point: Smart
+  filename: godhjul.jpg
+  focal_point: Right
   preview_only: false
 ---
 Hej medlem!

@@ -6,9 +6,10 @@ featured: false
 authors:
   - unclefester
 image:
-  filename: featured
+  filename: bonanza23_total.png
+  placement: 1
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 **Turf Bonanza Umeå 20 May 2023**
 
@@ -22,6 +23,4 @@ It is not mandatory to register to participate, but if you want a name tag and a
 
 [Klicka här för att se deltagarlistan / List of participants can be found here](https://docs.google.com/spreadsheets/d/1VIhZgbedoMJbFI9ZsoL57SHwHEBEObUaBkBBl_ETwOk/edit?usp=sharing)
 
-![](bonanza23_total_reg.webp)
-
-![](bonanza23_per_region.webp)
+![](bonanza23_total.png)
