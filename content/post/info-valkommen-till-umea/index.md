@@ -40,7 +40,6 @@ En av våra sponsorer, [Eljest](https://www.eljestshop.se/), har ett mysigt caf�
 Eventområdet öppnar kl 9:00 och ligger vid Nydalabadet på norra sidan av Nydalasjön, nära E4:an och First Camp Umeå.
 
 **Hitta hit med:**
-
 * … buss: Ta buss 1 eller 2 mot Ö Ersboda/Ersboda handelsområde och hoppa av på hållplatsen Nydala. Följ cykelvägen under motorvägen, ned mot sjön. För busstidtabeller se[ tabussen.nu](https://www.tabussen.nu/)
 * … bil: GPS-koordinatorer 63.837202, 20.339428. Se separat karta för kostnadsfri parkering.
 * … turf-kartan: zonerna [TrioVidFyran](https://turfgame.com/map/TrioVidFyran) och [UmeBeach](https://turfgame.com/map/UmeBeach) ligger närmast eventområdet. När du väl hittat hit, lär du även se ett helt gäng andra turfare.  
@@ -68,15 +67,15 @@ Eventområdet öppnar kl 9:00 och ligger vid Nydalabadet på norra sidan av Nyda
 * **Ca 16:00** \
   Eventområdet stänger.
 * **18:00** \
-  Fördrinks-crowdy (se nedan)
+  Fördrinks-crowdy ([se nedan](#1800--fördrink-med-crowdy-inför-banketten))
 * **18:30** \
-  Bonanza-banketten börjar på Cinco (se nedan)
+  Bonanza-banketten börjar på Cinco ([se nedan](#1830--bankett-på-restaurang-cinco))
 * **21:00** \
   Möjlighet för de som inte anmält sig till banketten att göra oss sällskap på Cinco.
 
 *\*Medaljerna Bonanza Guld, Silver och Brons samt Bonanzamedalj kommer att delas ut i appen efter respektive heat. Vinnarna av respektive heat vinner också priser. Det kommer även att finnas en ungdomsklass, upp till 18 år med särskilda priser.*
 
-{{< figure src="cm-b-23.webp" caption="Vår sponsor CM Cykel & Fritid med en av priserna. *Foto: Pike.*" >}}
+![](cm-b-23.webp "Vår sponsor CM Cykel & Fritid med en av priserna. *Foto: Pike.*")
 
 ## Faciliteter på eventområdet
 
@@ -110,7 +109,7 @@ Klockan 18:00 bjuder vi på fördrink och crowdy inför banketten. Vi ses utanf�
 
 Kl 18:30 öppnas dörrarna till banketten på [restaurang Cinco](https://cincoumea.se/) på Renmarkstorget (närmsta zon: [RenastLuft](https://turfgame.com/map/RenastLuft)). Observera att deltagande på banketten kräver föranmälan och att anmälningen nu har stängt. Kontakta Bonanza Crew på eventområdet om du vill skriva upp dig på reservlista (obs! Då gäller ordinarie meny och ej specialkost, priset är 400 kr). ***Du som inte anmält dig är välkommen att göra oss sällskap på Cinco efter 21:00.***
 
-I middagen ingår huvudrätt och efterrätt på Västerbottniskt tema. Dryck bekostas på egen hand. Under kvällen blir det utdelning av Turf Awards, upptåg, Regionskampen (se nedan), tillkännagivande av Bonanza-ort 2024 och mycket mer. Hela lokalen är reserverad för Bonanza-festligheterna fram till 21.30.
+I middagen ingår huvudrätt och efterrätt på Västerbottniskt tema. Dryck bekostas på egen hand. Under kvällen blir det utdelning av Turf Awards, upptåg, Regionskampen ([se nedan](#regionskampen--bonanza-edition)), tillkännagivande av Bonanza-ort 2024 och mycket mer. Hela lokalen är reserverad för Bonanza-festligheterna fram till 21.30.
 
 Ca kl 21:30 kommer den formella delen av banketten att rundas av och vi kommer att flytta in i en mindre avdelning i bakre delen av Cinco. Kl 22:00 slår nattklubben på Cinco upp dörrarna och några av er vill kanske passa på att svänga de lurviga. Åldersgräns för nattklubben är 22 år, då gäller entrépris.
 
