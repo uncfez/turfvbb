@@ -7,7 +7,7 @@ _build:
   render: always
   list: never
 image:
-  filename: featured
+  filename: B23-logo_svart.png
   focal_point: Smart
   preview_only: false
 ---
@@ -68,7 +68,7 @@ The event area opens at 9 AM and is located by Nydalabaded, on the north side of
 
 *\*The medals Bonanza Gold, Silver och Bronze and Bonanza Participator will be assigned automatically in the app directly after each heat. Winners of each heat will also receive physical prizes. There will also be special prizes for participants of the junior class (up to 18).*
 
-{{< figure src="cm.webp" caption="Our sponsor CM Cykel & Fritid with one of the prizes. *Photo: Pike.*" >}}
+![](cm-b-23.webp "Our sponsor CM Cykel & Fritid with one of the prizes. *Photo: Pike.*")
 
 ## Facilities at the event area
 
@@ -134,12 +134,12 @@ It is possible to take a swim – both at Nydalabadet and at the swimming centre
 
 ## Map: Find the event area (and free parking)
 
-{{< figure src="bonanza-map.webp" caption="1. Event area 2. Free parking 3. First Camp Umeå*.*" >}}
+![](bonanza-map.webp "1. Event area 2. Free parking 3. First Camp Umeå")
 
 ## Map: Competition Area Foot
 
-{{< figure src="bonanza-foot.webp" caption="Bonanza Foot" >}}
+![](bonanza-foot.webp "Bonanza Foot")
 
 ## Map: Competition Area Bike
 
-{{< figure src="bonanza-bike.webp" caption="Bonanza Bike" >}}
+![](bonanza-bike.webp "Bonanza Bike")

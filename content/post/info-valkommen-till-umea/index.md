@@ -4,8 +4,7 @@ date: 2023-05-17T15:43:35.127Z
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: B23-logo_svart.png
   preview_only: false
 ---
 [In English, please! 🙂]({{< relref "/post/info-welcome-to-umea" >}})
@@ -67,7 +66,7 @@ Eventområdet öppnar kl 9:00 och ligger vid Nydalabadet på norra sidan av Nyda
 
 *\*Medaljerna Bonanza Guld, Silver och Brons samt Bonanzamedalj kommer att delas ut i appen efter respektive heat. Vinnarna av respektive heat vinner också priser. Det kommer även att finnas en ungdomsklass, upp till 18 år med särskilda priser.*
 
-{{< figure src="cm.webp" caption="Vår sponsor CM Cykel & Fritid med en av priserna. *Foto: Pike.*" >}}
+{{< figure src="cm-b-23.webp" caption="Vår sponsor CM Cykel & Fritid med en av priserna. *Foto: Pike.*" >}}
 
 ## Faciliteter på eventområdet
 
@@ -127,12 +126,12 @@ Det går nämligen att bada – både på Nydalabadet och på Navet. Så packa g
 
 ## Karta: Hitta till eventområdet (inkl. kostnadsfri parkering)
 
-{{< figure src="bonanza-map.webp" caption="1. Eventområde 2. Kostnadsfri parkering 3. First Camp Umeå." >}}
+![](bonanza-map.webp "1. Eventområde 2. Kostnadsfri parkering 3. First Camp Umeå")
 
-## Karta: Tävlingsområde Foot
+## Karta: Tävlingområde Foot
 
-{{< figure src="bonanza-foot.webp" caption="Bonanza Foot" >}}
+![](bonanza-foot.webp "Bonanza Foot")
 
-## Karta: Tävlingsområde Bike
+## Karta: Tävlingområde Bike
 
-{{< figure src="bonanza-bike.webp" caption="Bonanza Bike" >}}
+![](bonanza-bike.webp "Bonanza Bike")
