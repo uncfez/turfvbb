@@ -5,11 +5,7 @@ summary: >-
   Det är knappt en vecka kvar och vi längtar att få välkomna er alla till den
   nordligaste Bonanza någonsin (hittills)! I detta informationsbrev hittar du
   den viktigaste informationen du behöver innan du ger dig av till Umeå.
-
-
-  \*\**
-
-
+  ***
   It’s barely a week left and we cannot wait to welcome you all to the northernmost Bonanza ever (so far)! In this information letter you will find the essential information you need before setting off to Umeå.
 draft: false
 featured: false

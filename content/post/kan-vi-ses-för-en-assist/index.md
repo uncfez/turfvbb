@@ -4,7 +4,8 @@ date: 2023-02-10T16:38:48.530Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: FredrikaZone_Photo-WombaWomba-scaled.jpg
+  caption: 'Foto: WombaWomba'
   focal_point: Smart
   preview_only: false
 ---

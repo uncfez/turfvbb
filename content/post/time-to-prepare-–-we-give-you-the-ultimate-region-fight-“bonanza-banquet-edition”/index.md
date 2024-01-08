@@ -6,26 +6,22 @@ summary: >-
   Read all about it!
 
 
-  På årets Bonanza-bankett kommer ***årets turf-region*** att koras! Vem som vinner beror på ***hur*** ni väljer att presentera er region.
-
-
-  \*\**
-
-
-  During the Bonanza banquet this year the ***Turf region of the year*** will be chosen! Who will win depends on ***how*** you present your region.
+  På årets Bonanza-bankett kommer årets turf-region att koras! Vem som vinner beror på hhur ni väljer att presentera er region.
+  ***
+  During the Bonanza banquet this year the Turf region of the year will be chosen! Who will win depends on how you present your region.
 draft: false
 featured: false
 authors: []
 image:
   filename: featured
-  focal_point: Smart
+  focal_point: 
   preview_only: false
 ---
-(English version below) 
+([English version below](#to-all-turf-associationsregions)) 
 
 
 
-**Till alla Turf-föreningar/regioner:** \
+## Till alla Turf-föreningar/regioner
 **Inbjudan till Regionskampen, Ultimate Region Fight ”Bonanza Banquet Edition”**
 
 På årets Bonanza-bankett kommer ***årets turf-region*** att koras! Vem som vinner beror på ***hur*** ni väljer att presentera er region.
@@ -47,7 +43,7 @@ Prata ihop er och anmäl er snarast! Det finns ännu lite tid att anmäla sig ti
 
 \*\*\*\**
 
-**To all Turf associations/regions:** \
+## To all Turf associations/regions
 **Invitation to the Ultimate Region Fight “Bonanza Banquet Edition”**
 
 During the Bonanza banquet this year the ***Turf region of the year*** will be chosen! Who will win depends on ***how*** you present your region.
