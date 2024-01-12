@@ -4,12 +4,29 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Turf Västerbotten
+  - name: Om föreningen
     url: /
     weight: 10
-  - name: Topics
+  - name: Kalender
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Pokaler & klassiker
+    identifier: pok
     weight: 30
+  - name: Vandringspokalen
+    parent: pok
+    weight: 10
+    url: tags/
+  - name: Västerbottens Turf-klassiker
+    parent: pok
+    weight: 20
+    url: tags/
+  - name: Profilkläder
+    url: tags/
+    weight: 40
+  - name: Vad är turf?
+    url: tags/
+    weight: 50
+  - name: turfgame.com
+    url: https://turfgame.com/
+    weight: 60

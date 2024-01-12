@@ -6,9 +6,9 @@ featured: false
 authors:
   - unclefester
 image:
-  filename: bonanza23_total.png
+  filename: bonanza23_total_reg.webp
   placement: 1
-  focal_point: Smart
+  focal_point: Top
   preview_only: true
 ---
 **Turf Bonanza Umeå 20 May 2023**

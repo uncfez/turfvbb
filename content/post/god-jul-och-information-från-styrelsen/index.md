@@ -7,7 +7,7 @@ authors:
   - linkaz
 image:
   filename: godhjul.jpg
-  focal_point: Right
+  focal_point: Smart
   preview_only: false
 ---
 Hej medlem!

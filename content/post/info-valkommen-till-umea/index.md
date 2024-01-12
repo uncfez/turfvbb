@@ -11,6 +11,7 @@ draft: false
 featured: false
 image:
   filename: B23-logo_svart.png
+  focal_point: Top
   preview_only: false
 ---
 [In English, please! 🙂]({{< relref "/post/info-welcome-to-umea" >}})

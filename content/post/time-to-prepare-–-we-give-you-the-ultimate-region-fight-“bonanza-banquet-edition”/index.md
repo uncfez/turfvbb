@@ -14,7 +14,7 @@ featured: false
 authors: []
 image:
   filename: featured
-  focal_point: 
+  focal_point: Smart
   preview_only: false
 ---
 ([English version below](#to-all-turf-associationsregions)) 
