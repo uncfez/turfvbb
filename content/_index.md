@@ -9,9 +9,9 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [0,0, 0, 0]
+        padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.7em;'
   - block: collection
     content:
       filters:
@@ -19,5 +19,5 @@ sections:
           - post
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['3rem', 0, '3rem', 0]
 ---
